@@ -88,7 +88,7 @@ nav ul li a:hover::after {
         transition:transform 0.4s ease;
 
     }
-    nav.ul.show{
+    nav ul.show{
         transform: translateX(0);
     }
      nav ul li{
